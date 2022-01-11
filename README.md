@@ -26,7 +26,7 @@ final output code
 My Email [Carlos](carlos598798@gmail.com).
 
 #### Contributing
-Reach out for any addition to the project.
+Reach out for any addition to the project
 
 ### Copyright and License
 Copyright 2021
