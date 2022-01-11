@@ -4,7 +4,7 @@
 CARLOS KIPKOECH
 
 ## Project Description
-A mobile Application that consumes an API , to bring latest news articles on mobile.
+A mobile Application that consumes an API , to bring latest news articles on mobile
 ## Technologies Used
 * Java
 * Retrofit
