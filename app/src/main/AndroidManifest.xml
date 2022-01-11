@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.moringaschool.newscout">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Newscout">
+        <activity
+            android:name=".ui.CreateAccountActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.LoginPage"
+            android:exported="false" />
+        <activity
+            android:name=".ui.SavedNewsList"
+            android:exported="false" />
+        <activity
+            android:name=".ui.NewsDetail"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Business"
+            android:exported="false" />
+        <activity
+            android:name=".ui.TechonologyNews"
+            android:exported="false" />
+        <activity
+            android:name=".ui.EntertainmentNews"
+            android:exported="false" />
+        <activity
+            android:name=".ui.SPortsNews"
+            android:exported="false" />
+        <activity
+            android:name=".ui.dashboard"
+            android:exported="false" />
+        <activity
+            android:name=".ui.AddNote"
+            android:exported="false" />
+        <activity
+            android:name=".ui.MyNotes"
+            android:exported="false" />
+        <activity
+            android:name=".ui.TrendingNews"
+            android:exported="false" />
+        <activity
+            android:name=".ui.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "69195991016",
+    "project_id": "newscout-e97eb",
+    "storage_bucket": "newscout-e97eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69195991016:android:5ee2210f011fb25609865d",
+        "android_client_info": {
+          "package_name": "com.moringaschool.newscout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69195991016-dmg7dr2lq16k8um22f8alg3vefc5754b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moringaschool.newscout",
+            "certificate_hash": "689c1506442ca9cc25e146e5b8cd876988a5fb6c"
+          }
+        },
+        {
+          "client_id": "69195991016-l4sin6ldv4777jllpjif6quepeicu7cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3BCzraL28Jxt3izFusyPuWb_Ip1dfPXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69195991016-l4sin6ldv4777jllpjif6quepeicu7cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
