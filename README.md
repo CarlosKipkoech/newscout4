@@ -13,7 +13,7 @@ A mobile Application that consumes an API , to bring latest news articles on mob
 
 
 ### Usage
-Keeps the most recent new feed on show all round the globe
+Keeps the most recent new feed on show all round the globe.
 ### BDD
 code written
 Tests carried out to ensure the tests pass
